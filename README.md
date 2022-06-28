@@ -1,5 +1,7 @@
-# aocd_2021
-Advent Of Code 2021
+# Advent Of Code 2021
+
+[Go to python solutions](https://github.com/xngst/aocd_2021/tree/main/python) (Day1 - Day10)  
+[Go to bash solutions](https://github.com/xngst/aocd_2021/tree/main/python)   (Day1 & Day2)  
 
 Advent of Code is an online Advent calendar where a new puzzle is published every day from December 1st to December 25th. Each puzzle becomes available at midnight, US Eastern Time. An Advent of Code puzzle has a few typical characteristics:  
 
@@ -9,5 +11,3 @@ Advent of Code is an online Advent calendar where a new puzzle is published ever
 
 The solutions have been validated on the Advent of Code platform: https://adventofcode.com
 
-[Go to python solutions](https://github.com/xngst/aocd_2021/tree/main/python)  
-[Go to bash solutions](https://github.com/xngst/aocd_2021/tree/main/python)  
